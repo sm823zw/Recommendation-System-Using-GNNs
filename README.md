@@ -1,1 +1,1 @@
-# Graph-Neural-Networks
+# Recommendation Systems using Graph Neural Networks
